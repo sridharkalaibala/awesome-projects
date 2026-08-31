@@ -1652,6 +1652,7 @@
 **[⬆️ Back to Top](#table-of-contents)**
 
 ## Privacy Management
+  * [Metadata Remover](https://metadataremover.ai/) - Browser-based metadata viewer and remover for supported image, PDF, document, video, and audio files. Core workflows are free, require no sign-up, and process files locally.
   * [Bearer](https://www.bearer.sh/) - Helps implement privacy by design via audits and continuous workflows so that organizations comply with GDPR and other regulations. Free tier is limited to smaller teams and SaaS version only.
   * [Osano](https://www.osano.com/) - Consent management and compliance platform with everything from GDPR representation to cookie banners. Free tier offers basic features.
   * [Iubenda](https://www.iubenda.com/) - Privacy and cookie policies along with consent management. Free tier offers limited privacy and cookie policy as well as cookie banners.
